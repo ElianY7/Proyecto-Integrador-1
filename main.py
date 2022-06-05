@@ -5,8 +5,7 @@
 
 from resta import resta
 
-def suma(num1, num2):
-    return (num1 + num2)
+from suma import suma
 
 
 def producto(num1, num2):
