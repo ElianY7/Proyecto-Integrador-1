@@ -3,11 +3,11 @@
 #Version: 0.0.1
 #Description: Prueba Github
 
+from resta import resta
+
 def suma(num1, num2):
     return (num1 + num2)
 
-def resta(num1, num2):
-    return (num1 - num2)
 
 def producto(num1, num2):
     return (num1 * num2)
