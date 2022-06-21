@@ -7,6 +7,7 @@ from resta import resta
 
 from suma import suma
 
+from mayor_num import mayor_num
 
 def producto(num1, num2):
     return (num1 * num2)
